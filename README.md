@@ -13,7 +13,7 @@ _A Deep-Dive Curriculum with Real-World Application_
 - Defining MLOps: Scope and Importance  
 - Key Concepts and the MLOps Lifecycle  
 - MLOps vs. DevOps: How They Compare  
-- **Containerization with Docker**  
+- [**Containerization with Docker**](docker.md)  
 - **Workflow Orchestration with Kubernetes**
 
 **Chapter 2: Building ML Pipelines**  
